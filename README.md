@@ -97,6 +97,8 @@ message ou par clé USB.
 
 | Version | Date | Nouveautés |
 |---------|------|------------|
+| 2.2.0 | septembre 2026 | Réveil automatique de l'ordinateur : les forfaits terminés sont coupés même pendant votre absence |
+| 2.1.1 | septembre 2026 | Correction : le nom imprime sur les tickets reprend celui de votre activite |
 | 2.1.0 | septembre 2026 | Licences au mois et à l'année, rappel avant échéance, délai de tolérance, mise à jour automatique |
 | 2.0 | septembre 2026 | Assistant de première configuration, sauvegarde et restauration, licences |
 
