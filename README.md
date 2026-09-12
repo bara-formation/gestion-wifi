@@ -97,6 +97,7 @@ message ou par clé USB.
 
 | Version | Date | Nouveautés |
 |---------|------|------------|
+| 2.3.2 | septembre 2026 | Coordonnées du fournisseur affichées dans l'application |
 | 2.3.1 | septembre 2026 | Un œil permet de voir son mot de passe pendant la saisie |
 | 2.3.0 | septembre 2026 | Accès à distance par réseau privé, et protection de l'écran de connexion |
 | 2.2.0 | septembre 2026 | Réveil automatique de l'ordinateur : les forfaits terminés sont coupés même pendant votre absence |
